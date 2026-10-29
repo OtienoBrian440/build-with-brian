@@ -292,6 +292,50 @@ function App() {
               </div>
             </div>
           </a>
+
+        
+          <a
+            href="https://prestige-mobility-stays.vercel.app"
+            target="_blank"
+            rel="noreferrer"
+            className="project-card project-link"
+          >
+            <div className="project-visual prestige-visual">
+              <span className="project-number">PROJECT / 03</span>
+
+              <div className="prestige-art">
+                <span className="prestige-kicker">PREMIUM MOBILITY & STAYS</span>
+                <span className="prestige-wordmark">PRESTIGE</span>
+                <span className="prestige-caption">
+                  MOVE BETTER. STAY BETTER.
+                </span>
+                <div className="prestige-line"></div>
+              </div>
+
+              <span className="project-type">MOBILITY & HOSPITALITY</span>
+              <span className="live-project-label">LIVE PROJECT ↗</span>
+            </div>
+
+            <div className="project-info">
+              <div className="project-title-row">
+                <h3>Prestige Mobility Stays</h3>
+                <span className="project-arrow">↗</span>
+              </div>
+
+              <p>
+                A digital platform for mobility and accommodation services,
+                designed to give customers a smooth, modern experience.
+              </p>
+
+              <div className="project-tags">
+                <span>Web Development</span>
+                <span>Responsive UI</span>
+                <span>Vercel</span>
+              </div>
+            </div>
+          </a>
+
+
         </div>
       </section>
 

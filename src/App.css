@@ -1277,3 +1277,60 @@ a {
   border-color: #25D366;
   transform: translateY(-3px);
 }
+
+/* PRESTIGE MOBILITY STAYS PROJECT */
+
+.prestige-visual {
+  background: linear-gradient(135deg, #101713 0%, #1c2b22 55%, #080b09 100%);
+  position: relative;
+  overflow: hidden;
+}
+
+.prestige-art {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  text-align: center;
+}
+
+.prestige-kicker {
+  color: #b5c9b8;
+  font-size: 9px;
+  letter-spacing: 4px;
+  margin-bottom: 14px;
+}
+
+.prestige-wordmark {
+  color: #f3f5ef;
+  font-size: clamp(28px, 5vw, 48px);
+  font-weight: 800;
+  letter-spacing: 7px;
+  line-height: 1;
+}
+
+.prestige-caption {
+  color: #c2d6a1;
+  font-size: 9px;
+  letter-spacing: 3px;
+  margin-top: 16px;
+}
+
+.prestige-line {
+  width: 70px;
+  height: 2px;
+  background: #c2f970;
+  margin-top: 22px;
+  box-shadow: 0 0 18px rgba(194, 249, 112, 0.45);
+}
+
+.prestige-visual .project-type {
+  z-index: 2;
+}
+
+.prestige-visual .live-project-label {
+  z-index: 2;
+}
