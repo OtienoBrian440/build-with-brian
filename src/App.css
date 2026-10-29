@@ -1259,3 +1259,21 @@ a {
   font-weight: 600;
   letter-spacing: 1px;
 }
+
+/* WhatsApp contact button */
+.whatsapp-button {
+  border-color: #25D366;
+  color: #25D366;
+  text-decoration: none;
+  transition:
+    background 0.3s ease,
+    color 0.3s ease,
+    transform 0.3s ease;
+}
+
+.whatsapp-button:hover {
+  background: #25D366;
+  color: #08110a;
+  border-color: #25D366;
+  transform: translateY(-3px);
+}

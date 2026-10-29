@@ -319,6 +319,17 @@ function App() {
               Email Me <span>↗</span>
             </a>
 
+            
+            <a
+              className="button-secondary whatsapp-button"
+              href="https://wa.me/254708397639?text=Hi%20Brian%2C%20I%27m%20interested%20in%20working%20with%20you."
+              target="_blank"
+              rel="noreferrer"
+            >
+              WhatsApp Me <span>↗</span>
+            </a>
+
+
             <a
               className="button-secondary"
               href="https://www.linkedin.com/in/brianotieno440/"
