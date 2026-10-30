@@ -1334,3 +1334,59 @@ a {
 .prestige-visual .live-project-label {
   z-index: 2;
 }
+
+/* AWREVYA GROUP PROJECT */
+
+.awrevya-visual {
+  background:
+    radial-gradient(circle at 50% 45%, rgba(184, 155, 91, 0.16), transparent 48%),
+    linear-gradient(135deg, #101b20 0%, #172b32 55%, #080e12 100%);
+  position: relative;
+  overflow: hidden;
+}
+
+.awrevya-art {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  text-align: center;
+}
+
+.awrevya-kicker {
+  color: #c7b98f;
+  font-size: 9px;
+  letter-spacing: 3px;
+  margin-bottom: 17px;
+}
+
+.awrevya-wordmark {
+  color: #f5f1e7;
+  font-size: clamp(30px, 5vw, 48px);
+  font-weight: 800;
+  letter-spacing: 6px;
+  line-height: 1;
+}
+
+.awrevya-caption {
+  color: #c7b98f;
+  font-size: 11px;
+  letter-spacing: 7px;
+  margin-top: 13px;
+}
+
+.awrevya-line {
+  width: 75px;
+  height: 2px;
+  background: #c7b98f;
+  margin-top: 23px;
+  box-shadow: 0 0 18px rgba(199, 185, 143, 0.4);
+}
+
+.awrevya-visual .project-type,
+.awrevya-visual .live-project-label {
+  z-index: 2;
+}

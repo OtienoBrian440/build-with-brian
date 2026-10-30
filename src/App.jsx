@@ -335,6 +335,51 @@ function App() {
             </div>
           </a>
 
+          
+          <a
+            href="https://awrevya-group.vercel.app"
+            target="_blank"
+            rel="noreferrer"
+            className="project-card project-link"
+          >
+            <div className="project-visual awrevya-visual">
+              <span className="project-number">PROJECT / 04</span>
+
+              <div className="awrevya-art">
+                <span className="awrevya-kicker">
+                  BUILDING A STRONGER AFRICA
+                </span>
+                <span className="awrevya-wordmark">AWREVYA</span>
+                <span className="awrevya-caption">
+                  GROUP
+                </span>
+                <div className="awrevya-line"></div>
+              </div>
+
+              <span className="project-type">CORPORATE WEBSITE</span>
+              <span className="live-project-label">LIVE PROJECT ↗</span>
+            </div>
+
+            <div className="project-info">
+              <div className="project-title-row">
+                <h3>AWREVYA Group</h3>
+                <span className="project-arrow">↗</span>
+              </div>
+
+              <p>
+                A corporate digital platform built to present the AWREVYA
+                Group brand, communicate its vision, and establish a
+                professional online presence.
+              </p>
+
+              <div className="project-tags">
+                <span>Web Development</span>
+                <span>Responsive UI</span>
+                <span>Vercel</span>
+              </div>
+            </div>
+          </a>
+
 
         </div>
       </section>
